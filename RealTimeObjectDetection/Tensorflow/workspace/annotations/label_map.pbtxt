@@ -1,0 +1,16 @@
+item { 
+	name:'hello'
+	id:1
+}
+item { 
+	name:'yes'
+	id:2
+}
+item { 
+	name:'thanks'
+	id:3
+}
+item { 
+	name:'no'
+	id:4
+}
